@@ -1,6 +1,6 @@
 'use strict';
 
-const STORAGE_KEY = 'actividad3-gestor-tareas-v1';d
+const STORAGE_KEY = 'actividad3-gestor-tareas-v1';
 const taskForm = document.querySelector('#task-form');
 const titleInput = document.querySelector('#task-title');
 const descriptionInput = document.querySelector('#task-description');
