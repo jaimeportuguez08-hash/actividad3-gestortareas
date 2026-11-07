@@ -1,0 +1,2 @@
+Guarda aquí las capturas de desarrollo y ejecución solicitadas para la Actividad 3.
+Sugerencias: panel en escritorio, alta de una tarea, edición, eliminación, filtros, contadores, persistencia después de recargar y vista móvil.
